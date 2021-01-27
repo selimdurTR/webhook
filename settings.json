@@ -1,0 +1,11 @@
+{
+"id" :    "",
+"token" : "",
+"sistem" :"" ,//buraya 1 yada 2 yazmanız lazım. 1. yolda metni metin yazan yere yazarsınız. 2. yolda ise bir discord botu bağlayıp oradan yönetirsiniz.
+"metin" : "" // eğer 1. sistemi seçerseniz buraya göndermek istediğiniz metni girin.
+}
+//!!Önemli eğer 2. yolu seçerseniz ikinciyol.json u doldurun.
+/*Dikkat! burada hesabınızın idsi veyahut tokeni istenmemiştir. Oluşturduğunuz webhookun linkine girerek 
+öğrendiğiniz tokeni ve idnizi girmelisiniz.
+Yapımcısı: SelimdurTR
+ */
